@@ -1,0 +1,40 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ReflectionPractice.cpp.obj": [
+			"BaseCoin.gen.cpp.obj",
+			"BaseItem.gen.cpp.obj",
+			"BigCoin.gen.cpp.obj",
+			"HealingItem.gen.cpp.obj",
+			"ItemInterface.gen.cpp.obj",
+			"ItemSpawnRow.gen.cpp.obj",
+			"MineItem.gen.cpp.obj",
+			"MyCharacter.gen.cpp.obj",
+			"MyCogwheel.gen.cpp.obj",
+			"MyGameInstance.gen.cpp.obj",
+			"MyGameMode.gen.cpp.obj",
+			"MyGameState.gen.cpp.obj",
+			"MyPlayerController.gen.cpp.obj",
+			"ReflectionPractice.init.gen.cpp.obj",
+			"SmallCoin.gen.cpp.obj",
+			"SpawnVolume.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"BaseCoin.cpp.obj",
+			"BaseItem.cpp.obj",
+			"BigCoin.cpp.obj",
+			"HealingItem.cpp.obj",
+			"ItemInterface.cpp.obj",
+			"ItemSpawnRow.cpp.obj",
+			"MineItem.cpp.obj",
+			"MyCharacter.cpp.obj",
+			"MyCogwheel.cpp.obj",
+			"MyGameInstance.cpp.obj",
+			"MyGameMode.cpp.obj",
+			"MyGameState.cpp.obj",
+			"MyPlayerController.cpp.obj",
+			"SmallCoin.cpp.obj",
+			"SpawnVolume.cpp.obj",
+			"ReflectionPractice.cpp.obj"
+		]
+	}
+}

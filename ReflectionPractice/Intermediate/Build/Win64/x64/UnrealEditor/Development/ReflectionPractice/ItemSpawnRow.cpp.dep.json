@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\git\\interfacepractice\\reflectionpractice\\source\\reflectionpractice\\private\\itemspawnrow.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\git\\interfacepractice\\reflectionpractice\\intermediate\\build\\win64\\x64\\reflectionpracticeeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\git\\interfacepractice\\reflectionpractice\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\reflectionpractice\\definitions.reflectionpractice.h",
+            "d:\\git\\interfacepractice\\reflectionpractice\\source\\reflectionpractice\\public\\itemspawnrow.h",
+            "d:\\git\\interfacepractice\\reflectionpractice\\intermediate\\build\\win64\\unrealeditor\\inc\\reflectionpractice\\uht\\itemspawnrow.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

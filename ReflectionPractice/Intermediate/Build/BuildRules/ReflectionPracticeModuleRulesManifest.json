@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\git\\InterfacePractice\\ReflectionPractice\\Source\\ReflectionPractice\\ReflectionPractice.Build.cs",
+		"D:\\git\\InterfacePractice\\ReflectionPractice\\Source\\ReflectionPractice.Target.cs",
+		"D:\\git\\InterfacePractice\\ReflectionPractice\\Source\\ReflectionPracticeEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.1"
+}

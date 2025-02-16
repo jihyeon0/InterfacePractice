@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ue_projects\\reflectionpractice\\intermediate\\build\\win64\\unrealeditor\\inc\\reflectionpractice\\uht\\mycogwheel.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue_projects\\reflectionpractice\\intermediate\\build\\win64\\x64\\reflectionpracticeeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\ue_projects\\reflectionpractice\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\reflectionpractice\\definitions.reflectionpractice.h",
+            "d:\\ue_projects\\reflectionpractice\\source\\reflectionpractice\\public\\mycogwheel.h",
+            "d:\\ue_projects\\reflectionpractice\\intermediate\\build\\win64\\unrealeditor\\inc\\reflectionpractice\\uht\\mycogwheel.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\ReflectionPractice.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ReflectionPractice.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\ReflectionPracticeEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\UpgradeLog.htm" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\ReflectionPractice">
+      <UniqueIdentifier>{B9A4E7C7-C89F-3178-BC22-92F27C93D136}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\ReflectionPractice\ReflectionPractice.Build.cs">
+      <Filter>Source\ReflectionPractice</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\ReflectionPractice\ReflectionPractice.cpp">
+      <Filter>Source\ReflectionPractice</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ReflectionPractice\ReflectionPractice.h">
+      <Filter>Source\ReflectionPractice</Filter>
+    </ClCompile>
+    <Filter Include="Source\ReflectionPractice\Public">
+      <UniqueIdentifier>{7FCD55B4-710C-368E-948E-7238DBE18FE3}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ReflectionPractice\Public\MyPlayerController.h">
+      <Filter>Source\ReflectionPractice\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ReflectionPractice\Public\BaseItem.h">
+      <Filter>Source\ReflectionPractice\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ReflectionPractice\Public\SmallCoin.h">
+      <Filter>Source\ReflectionPractice\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ReflectionPractice\Public\BigCoin.h">
+      <Filter>Source\ReflectionPractice\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ReflectionPractice\Public\BaseCoin.h">
+      <Filter>Source\ReflectionPractice\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ReflectionPractice\Public\ItemInterface.h">
+      <Filter>Source\ReflectionPractice\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ReflectionPractice\Public\ItemSpawnRow.h">
+      <Filter>Source\ReflectionPractice\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ReflectionPractice\Public\MineItem.h">
+      <Filter>Source\ReflectionPractice\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ReflectionPractice\Public\HealingItem.h">
+      <Filter>Source\ReflectionPractice\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ReflectionPractice\Public\MyGameMode.h">
+      <Filter>Source\ReflectionPractice\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ReflectionPractice\Public\MyCharacter.h">
+      <Filter>Source\ReflectionPractice\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ReflectionPractice\Public\SpawnVolume.h">
+      <Filter>Source\ReflectionPractice\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ReflectionPractice\Public\MyGameState.h">
+      <Filter>Source\ReflectionPractice\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ReflectionPractice\Public\MyGameInstance.h">
+      <Filter>Source\ReflectionPractice\Public</Filter>
+    </ClCompile>
+    <Filter Include="Source\ReflectionPractice\Private">
+      <UniqueIdentifier>{D03694A2-20D3-3829-A738-274F6BB5995D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\ReflectionPractice\Private\BaseItem.cpp">
+      <Filter>Source\ReflectionPractice\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ReflectionPractice\Private\MyGameMode.cpp">
+      <Filter>Source\ReflectionPractice\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ReflectionPractice\Private\MyCharacter.cpp">
+      <Filter>Source\ReflectionPractice\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ReflectionPractice\Private\HealingItem.cpp">
+      <Filter>Source\ReflectionPractice\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ReflectionPractice\Private\BigCoin.cpp">
+      <Filter>Source\ReflectionPractice\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ReflectionPractice\Private\SmallCoin.cpp">
+      <Filter>Source\ReflectionPractice\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ReflectionPractice\Private\SpawnVolume.cpp">
+      <Filter>Source\ReflectionPractice\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ReflectionPractice\Private\ItemSpawnRow.cpp">
+      <Filter>Source\ReflectionPractice\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ReflectionPractice\Private\MineItem.cpp">
+      <Filter>Source\ReflectionPractice\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ReflectionPractice\Private\MyGameState.cpp">
+      <Filter>Source\ReflectionPractice\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ReflectionPractice\Private\BaseCoin.cpp">
+      <Filter>Source\ReflectionPractice\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ReflectionPractice\Private\MyGameInstance.cpp">
+      <Filter>Source\ReflectionPractice\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ReflectionPractice\Private\MyPlayerController.cpp">
+      <Filter>Source\ReflectionPractice\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\ReflectionPractice\Private\ItemInterface.cpp">
+      <Filter>Source\ReflectionPractice\Private</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

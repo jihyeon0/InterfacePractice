@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\git\\interfacepractice\\reflectionpractice\\source\\reflectionpractice\\private\\smallcoin.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\git\\interfacepractice\\reflectionpractice\\intermediate\\build\\win64\\x64\\reflectionpracticeeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\git\\interfacepractice\\reflectionpractice\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\reflectionpractice\\definitions.reflectionpractice.h",
+            "d:\\git\\interfacepractice\\reflectionpractice\\source\\reflectionpractice\\public\\smallcoin.h",
+            "d:\\git\\interfacepractice\\reflectionpractice\\source\\reflectionpractice\\public\\basecoin.h",
+            "d:\\git\\interfacepractice\\reflectionpractice\\source\\reflectionpractice\\public\\baseitem.h",
+            "d:\\git\\interfacepractice\\reflectionpractice\\source\\reflectionpractice\\public\\iteminterface.h",
+            "d:\\git\\interfacepractice\\reflectionpractice\\intermediate\\build\\win64\\unrealeditor\\inc\\reflectionpractice\\uht\\iteminterface.generated.h",
+            "d:\\git\\interfacepractice\\reflectionpractice\\intermediate\\build\\win64\\unrealeditor\\inc\\reflectionpractice\\uht\\baseitem.generated.h",
+            "d:\\git\\interfacepractice\\reflectionpractice\\intermediate\\build\\win64\\unrealeditor\\inc\\reflectionpractice\\uht\\basecoin.generated.h",
+            "d:\\git\\interfacepractice\\reflectionpractice\\intermediate\\build\\win64\\unrealeditor\\inc\\reflectionpractice\\uht\\smallcoin.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

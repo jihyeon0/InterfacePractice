@@ -1,0 +1,40 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\git\\interfacepractice\\reflectionpractice\\source\\reflectionpractice\\private\\mygamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\git\\interfacepractice\\reflectionpractice\\intermediate\\build\\win64\\x64\\reflectionpracticeeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\git\\interfacepractice\\reflectionpractice\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\reflectionpractice\\definitions.reflectionpractice.h",
+            "d:\\git\\interfacepractice\\reflectionpractice\\source\\reflectionpractice\\public\\mygamemode.h",
+            "d:\\ue\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemode.h",
+            "d:\\ue\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\ue\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\ue\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\ue\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\ue\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemode.generated.h",
+            "d:\\git\\interfacepractice\\reflectionpractice\\intermediate\\build\\win64\\unrealeditor\\inc\\reflectionpractice\\uht\\mygamemode.generated.h",
+            "d:\\git\\interfacepractice\\reflectionpractice\\source\\reflectionpractice\\public\\mycharacter.h",
+            "d:\\ue\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\character.h",
+            "d:\\ue\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\charactermovementreplication.h",
+            "d:\\ue\\epic games\\ue_5.5\\engine\\source\\runtime\\net\\core\\public\\net\\core\\nettoken\\nettokenexportcontext.h",
+            "d:\\ue\\epic games\\ue_5.5\\engine\\source\\runtime\\experimental\\iris\\core\\public\\iris\\serialization\\irisobjectreferencepackagemap.h",
+            "d:\\ue\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\iriscore\\uht\\irisobjectreferencepackagemap.generated.h",
+            "d:\\ue\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\charactermovementreplication.generated.h",
+            "d:\\ue\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\rootmotionsource.h",
+            "d:\\ue\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\rootmotionsource.generated.h",
+            "d:\\ue\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\character.generated.h",
+            "d:\\git\\interfacepractice\\reflectionpractice\\intermediate\\build\\win64\\unrealeditor\\inc\\reflectionpractice\\uht\\mycharacter.generated.h",
+            "d:\\git\\interfacepractice\\reflectionpractice\\source\\reflectionpractice\\public\\myplayercontroller.h",
+            "d:\\git\\interfacepractice\\reflectionpractice\\intermediate\\build\\win64\\unrealeditor\\inc\\reflectionpractice\\uht\\myplayercontroller.generated.h",
+            "d:\\git\\interfacepractice\\reflectionpractice\\source\\reflectionpractice\\public\\mygamestate.h",
+            "d:\\ue\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamestate.h",
+            "d:\\ue\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamestatebase.h",
+            "d:\\ue\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamestatebase.generated.h",
+            "d:\\ue\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamestate.generated.h",
+            "d:\\git\\interfacepractice\\reflectionpractice\\intermediate\\build\\win64\\unrealeditor\\inc\\reflectionpractice\\uht\\mygamestate.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ue_projects\\reflectionpractice\\intermediate\\build\\win64\\unrealeditor\\inc\\reflectionpractice\\uht\\mygamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue_projects\\reflectionpractice\\intermediate\\build\\win64\\x64\\reflectionpracticeeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\ue_projects\\reflectionpractice\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\reflectionpractice\\definitions.reflectionpractice.h",
+            "d:\\ue_projects\\reflectionpractice\\source\\reflectionpractice\\public\\mygamemode.h",
+            "d:\\ue\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemode.h",
+            "d:\\ue\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\ue\\epic games\\ue_5.5\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\ue\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\ue\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\ue\\epic games\\ue_5.5\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemode.generated.h",
+            "d:\\ue_projects\\reflectionpractice\\intermediate\\build\\win64\\unrealeditor\\inc\\reflectionpractice\\uht\\mygamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

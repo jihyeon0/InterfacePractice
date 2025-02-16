@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ReflectionPractice",
+			"Path": "..\\Source\\ReflectionPractice.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ReflectionPracticeEditor",
+			"Path": "..\\Source\\ReflectionPracticeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
